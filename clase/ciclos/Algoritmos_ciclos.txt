@@ -1,0 +1,35 @@
+Ciclo FOR
+1.Imprimir los números del 1 al 10:
+  Utiliza un ciclo for para recorrer los números del 1   al 10 e imprimir cada número en la consola.
+
+2.Calcular la suma de los primeros N números:
+  Pide al usuario que ingrese un número N.
+  Utiliza un ciclo for para sumar los números del 1 a N.
+
+3.Imprimir los números pares del 1 al 20:
+  Utiliza un ciclo for para recorrer los números del 1 al 20.
+  Imprime solo los números que sean divisibles por 2.
+
+4.Imprimir una tabla de multiplicar:
+  Pide al usuario que ingrese un número.
+  Utiliza un ciclo for para imprimir la tabla de multiplicar de ese número (del 1 al 10).
+------------------------------------------------------------------
+Ciclo WHILE
+
+1.Contar hasta que el usuario ingrese un número negativo:
+  Inicializa una variable en 0.
+  Utiliza un ciclo while para pedir al usuario que ingrese un número.
+  Termina el ciclo cuando el usuario ingrese un número negativo.
+
+2.Calcular la suma de dígitos de un número:
+  Pide al usuario que ingrese un número entero positivo.
+  Utiliza un ciclo while para sumar los dígitos del número.
+
+3.Determinar si un número es primo:
+  Pide al usuario que ingrese un número.
+  Utiliza un ciclo while para verificar si el número es divisible por algún número menor que él mismo.
+
+4.Imprimir números hasta que la suma de ellos sea mayor a un valor:
+  Pide al usuario que ingrese un valor límite.
+  Utiliza un ciclo while para seguir sumando números aleatorios
+  
